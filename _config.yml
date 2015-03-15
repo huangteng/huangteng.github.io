@@ -67,6 +67,6 @@ theme: landscape
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: github
-  repository: git@github.com:huangteng/huangteng.github.io.git
+  type: git
+  repository: https://github.com/huangteng/huangteng.github.io
   branch: master
