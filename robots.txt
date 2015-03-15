@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://huangteng.github.io/sitemap.xml 
