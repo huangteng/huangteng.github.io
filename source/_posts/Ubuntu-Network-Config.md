@@ -1,11 +1,13 @@
 title: how to share wifi internet to Linux Embedded system board
 date: 2015-06-20 10:43:51
 tags:
+toc: true
 ---
 
 
 This post describes the configure procedure for Linux network settings, to achieve that the laptop can get access to the internet (through WLAN) while at the same time the development board (or any other device which has LAN port) can talk with it (ping, ftp, telnet, etc).
 
+<br><br>
 
 ## Configure the LAN and WLAN (general description)
 ### Configure the LAN in terminal
